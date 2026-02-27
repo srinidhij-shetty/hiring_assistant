@@ -361,8 +361,9 @@ This project satisfies:
 
 # Author
 
-Sai Teja Reddy
+Srinidhi J
 AI/ML Engineering Student
 Specialization: Artificial Intelligence & Machine Learning
+
 
 
