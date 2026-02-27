@@ -217,7 +217,7 @@ Dynamic prompt template:
 ## 1️⃣ Clone Repository
 
 ```
-https://github.com/Reddy0402/hiring_assistant
+https://github.com/srinidhij-shetty/hiring_assistant.git
 ```
 
 ---
@@ -364,6 +364,7 @@ This project satisfies:
 Srinidhi J
 AI/ML Engineering Student
 Specialization: Artificial Intelligence & Machine Learning
+
 
 
 
